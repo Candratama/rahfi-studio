@@ -1,0 +1,21 @@
+{
+    "title1": "Unique <span class=\"mil-thin\">Ideas</span>",
+    "title2": "For Your <span class=\"mil-thin\">Business.</span>",
+    "subtitle": "Professionals focused on helping your brand<br/> grow and move forward.",
+    "button": {
+        "link": "/services",
+        "label": "What we do"
+    },
+    "items": [
+        {
+            "title": "Photography",
+            "text": "Our creative agency is a team of professionals focused on helping your brand grow.",
+            "link": "/services/service-1"
+        },
+        {
+            "title": "Videography",
+            "text": "Our creative agency is a team of professionals focused on helping your brand grow.",
+            "link": "/services/service-2"
+        }
+    ]
+}

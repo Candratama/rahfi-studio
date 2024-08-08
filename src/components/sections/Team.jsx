@@ -8,7 +8,7 @@ const TeamSection = () => {
     <>
         {/* team */}
         <section>
-            <div className="container mil-p-120-30">
+            <div className="container my-5">
                 <div className="row justify-content-between align-items-center">
                     <div className="col-lg-5 col-xl-5">
                             <h2 className="mil-up mil-mb-60" dangerouslySetInnerHTML={{__html : Data.title}} />

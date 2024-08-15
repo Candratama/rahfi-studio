@@ -1,7 +1,7 @@
 ---
 #preview
 title: Center for International Language Development
-image: /img/works/1.jpg
+image: /img/works/22.jpg
 category: TECHNOLOGY
 date: may 24 2023
 

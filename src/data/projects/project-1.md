@@ -1,6 +1,6 @@
 ---
 #preview
-title: Interior design studio
+title: Center for International Language Development
 image: /img/works/1.jpg
 category: TECHNOLOGY
 date: may 24 2023
@@ -9,17 +9,17 @@ date: may 24 2023
 layout: "one"
 
 #full details
-introTitle: "Interior Design <span class=\"mil-thin\">Studio</span>"
-fullImage: /img/works/1/1.jpg
+introTitle: "Center for International <span class=\"mil-thin\">Language Development</span>"
+fullImage: /img/works/1/22.jpg
 details:
     - label: "Client:"
-      value: "Envato"
+      value: "CILAD Unissula"
 
     - label: "Date:"
-      value: "April 2022"
+      value: "April 2024"
 
     - label: "Author"
-      value: "Paul Trueman"
+      value: "Rahfi Studio"
 
 description:
     enabled: 1
@@ -29,27 +29,27 @@ description:
       <p>Presents a simple and quiet state when not in use, delivering a gentle and security.At the same time, the camera can adapt to a variety of environments, providing elegant ways of wall hanging and standing installation.</p>
     "
 
-gallery: 
+gallery:
     enabled: 1
     items:
-        - image: /img/works/1/2.jpg
+        - image: /img/works/1/33.jpg
           alt: "image"
 
-        - image: /img/works/1/3.jpg
+        - image: /img/works/1/44.jpg
           alt: "image"
 
-        - image: /img/works/1/4.jpg
+        - image: /img/works/1/55.jpg
           alt: "image"
 
-        - image: /img/works/1/5.jpg
+        - image: /img/works/1/66.jpg
           alt: "image"
 
-gallery2: 
+gallery2:
     enabled: 1
     items:
-        - image: /img/works/1/6.jpg
+        - image: /img/works/1/11.jpg
           alt: "image"
 
-        - image: /img/works/1/7.jpg
+        - image: /img/works/1/77.jpg
           alt: "image"
 ---

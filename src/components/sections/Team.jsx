@@ -33,7 +33,7 @@ const TeamSection = () => {
                                 </div>
 
                                 <div className="row">
-                                    <div className="col-sm-5">
+                                    <div className="col-sm-6">
                                         {Data.col1_items.map((item, key) => (
                                             <div key={`services1-item-${key}`}
                                                  className="mil-team-card mil-up mil-mb-30">
@@ -41,7 +41,7 @@ const TeamSection = () => {
                                                 <div className="mil-description">
                                                     <div className="mil-secrc-text">
                                                         <h5 className="mil-muted mil-mb-5">{item.name}</h5>
-                                                        <p className="mil-link mil-light-soft mil-mb-10">{item.role}</p>
+                                                        <p className="mil-link mil-light-soft ">{item.role}</p>
                                                         {/*<ul className="mil-social-icons mil-center">*/}
                                                         {/*    {item.social.map((social, key2) => (*/}
                                                         {/*    <li key={`services1-item${key}-social-${key2}`}><a href={social.link} target="_blank" className="social-icon" title={social.title}> <i className={social.icon} /></a></li>*/}
@@ -52,12 +52,12 @@ const TeamSection = () => {
                                             </div>
                                         ))}
                                     </div>
-                                    <div className="col-sm-5">
-                                        <p className="mil-mobile-hidden mil-text-sm " style={{"height": "50px"}}
-                                           dangerouslySetInnerHTML={{__html: Data.note}}/>
+                                    <div className="col-sm-6">
+                                        {/*<p className="mil-mobile-hidden mil-text-sm " style={{"height": "50px"}}*/}
+                                        {/*   dangerouslySetInnerHTML={{__html: Data.note}}/>*/}
                                         {Data.col2_items.map((item, key) => (
                                             <div key={`services2-item-${key}`}
-                                                 className="mil-team-card mil-up mil-mb-30">
+                                                 className="mil-team-card mil-up">
                                                 <img src={item.image} alt={item.name}/>
                                                 <div className="mil-description">
                                                     <div className="mil-secrc-text">
@@ -73,7 +73,7 @@ const TeamSection = () => {
                                             </div>
                                         ))}
                                     </div>
-                                    <div className="col-sm-5">
+                                    <div className="col-sm-6">
                                         {/*<p className="mil-mobile-hidden mil-text-sm mil-mb-30" style={{"height": "30px"}}*/}
                                         {/*   dangerouslySetInnerHTML={{__html: Data.note}}/>*/}
                                         {Data.col3_items.map((item, key) => (

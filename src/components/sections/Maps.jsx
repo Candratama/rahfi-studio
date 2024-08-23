@@ -10,7 +10,7 @@ function Maps() {
     return (
         <div className="mil-map-frame mil-up">
             <div className="d-flex justify-content-center mt-4">
-                <button className="mil-button-portfolio selected" onClick={handleGetDirections}>
+                <button className="mil-map-button selected" onClick={handleGetDirections}>
                     Get Directions
                 </button>
             </div>

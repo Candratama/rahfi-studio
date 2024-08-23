@@ -1,6 +1,5 @@
 import React, {useState} from "react";
 import Link from "next/link";
-import CategoryDropdown from "./CategoryDropdown"; // Import the new component
 
 const Masonry = ({projects}) => {
     const [selectedCategory, setSelectedCategory] = useState("all");

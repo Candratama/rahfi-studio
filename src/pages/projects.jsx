@@ -2,7 +2,6 @@ import {useState} from 'react';
 
 import Layouts from "@layouts/Layouts";
 import PageBanner from "@components/PageBanner";
-import ProjectsMasonry from "@components/ProjectsMasonry";
 import CallToActionSection from "@components/sections/CallToAction";
 
 import {getSortedProjectsData} from "@library/projects";

@@ -16,10 +16,9 @@ const DefaultFooter = ({extraClass}) => {
                             <div className="col-md-6 col-lg-6 mil-mb-60 mt-4">
 
                                 <div className="mil-muted mil-logo mil-up mil-mb-10">{AppData.footer.logo.text}</div>
-                                <div className="row flex-row justify-content-between">
+                                <div className="row flex-row justify-content-between mil-mb-10">
                                     <p className="mil-light-soft mil-up">Perum Korpri Klipang Jl. Klipang No.1 Blok W1
-                                        B, RT.7/RW.3,<span
-                                            className="mil-no-wrap">Sendangmulyo, Kec. Tembalang, Kota Semarang, Jawa Tengah 50272</span>
+                                        B, RT.7/RW.3, Sendangmulyo, Kec. Tembalang, Kota Semarang, Jawa Tengah 50272
                                     </p>
 
                                 </div>

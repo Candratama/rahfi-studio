@@ -57,7 +57,7 @@ const TeamSection = () => {
                                         {/*   dangerouslySetInnerHTML={{__html: Data.note}}/>*/}
                                         {Data.col2_items.map((item, key) => (
                                             <div key={`services2-item-${key}`}
-                                                 className="mil-team-card mil-up">
+                                                 className="mil-team-card mil-up mil-mb-30">
                                                 <img src={item.image} alt={item.name}/>
                                                 <div className="mil-description">
                                                     <div className="mil-secrc-text">

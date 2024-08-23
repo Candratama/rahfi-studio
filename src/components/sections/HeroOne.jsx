@@ -29,7 +29,7 @@ const HeroOne = () => {
                             <h1 className="mil-muted mil-mb-60" dangerouslySetInnerHTML={{__html: Data.title}}/>
 
                             <div className="row">
-                                <div className="col-md-7 col-lg-5">
+                                <div className="col-md-7 col-lg-7">
                                     <p className="mil-light-soft mil-mb-60">{Data.description}</p>
                                 </div>
                             </div>

@@ -494,25 +494,24 @@ button
   border: none;
   letter-spacing: 2px;
   font-size: 12px;
-  border-radius: 70px;
   height: 70px;
   text-transform: uppercase;
   font-weight: 500;
   transition: $t-md;
-  background-color: $dark;
-  color: white;
+  background-color: transparent;
+  color: $dark;
   padding: 10px 50px;
   z-index: 5;
 }
 
 .mil-button-portfolio:hover {
-  background-color: $accent;
+  background-color: transparent;
   scale: 1.05;
 }
 
 .mil-button-portfolio.selected {
-  background-color: $accent;
-  color: black;
+  background-color: transparent;
+  color: $accent;
 }
 
 
@@ -1005,7 +1004,7 @@ spaces
 
   .mil-button-icon {
     display: inline;
-    font-size: 24px;
+    font-size: 12px;
   }
 
   .mil-button-portfolio {
@@ -1055,4 +1054,14 @@ spaces
 
 }
 
+.mil-separator {
+  align-content: center;
+  border: 0;
+  height: 1px;
+  width: 5%;
+  background: $dark; /* Example color */
+  margin: 20px auto; /* Adjust the margin as needed */
+}
+
+@screen
 

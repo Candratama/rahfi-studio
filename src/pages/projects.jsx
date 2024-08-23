@@ -5,7 +5,7 @@ import PageBanner from "@components/PageBanner";
 import CallToActionSection from "@components/sections/CallToAction";
 
 import {getSortedProjectsData} from "@library/projects";
-import Masonry from "@components/Masonry";
+import Masonry from "@components/sections/Masonry";
 
 const Projects = (props) => {
     return (

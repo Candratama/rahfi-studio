@@ -980,47 +980,35 @@ spaces
 /* Button filter */
 
 /* Center buttons in mobile view */
+.mil-button-text {
+  display: inline;
+}
+
+.mil-button-icon {
+  display: none;
+}
+
 @media (max-width: 768px) {
+  .mil-button-text {
+    display: none;
+  }
+
+  .mil-button-icon {
+    display: inline;
+    font-size: 24px;
+  }
+
   .mil-button-portfolio {
-    display: none;
-    margin: 0 auto;
+    padding: 0 32px;
   }
 
-  .mil-category-dropdown-wrapper {
-    position: relative;
-    display: flex;
-    justify-content: center;
-    width: 100%;
-  }
-
-  .mil-category-dropdown {
-    appearance: none; /* Remove default arrow */
-    -webkit-appearance: none; /* Remove default arrow in Safari */
-    -moz-appearance: none; /* Remove default arrow in Firefox */
-    padding: 20px 20px 20px 20px;
-    width: 50%;
-    text-align: center;
-    margin-bottom: 30px;
-    margin-top: -50px;
-    position: relative; /* Ensure the pseudo-element is positioned correctly */
-  }
-  .mil-dropdown-icon {
-    position: absolute;
-    right: 10px; /* Adjust the position of the icon */
-    top: 50%;
-    transform: translateY(-50%);
-    pointer-events: none; /* Ensure the icon does not interfere with button functionality */
-    font-size: 16px; /* Adjust the size of the icon */
-  }
-
-}
-
-@media (min-width: 769px) {
   .mil-category-buttons {
-    display: flex;
+    margin-top: -30px;
   }
-  .mil-category-dropdown {
-    display: none;
+
+  .mil-btn-space {
+    margin: 0 5px;
   }
 }
+
 

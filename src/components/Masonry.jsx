@@ -1,7 +1,6 @@
 import React, {useState} from "react";
 import Link from "next/link";
-import LinesIcon from "@layouts/svg-icons/Lines";
-import Data from "@data/sections/about.json";
+import CategoryDropdown from "./CategoryDropdown"; // Import the new component
 
 const Masonry = ({projects}) => {
     const [selectedCategory, setSelectedCategory] = useState("all");
@@ -19,7 +18,7 @@ const Masonry = ({projects}) => {
             {/* portfolio */}
             <section id="portfolio">
                 <h2 className="mil-up mil-mb-60 mil-mt-60 d-flex justify-content-center">Portfolio</h2>
-                <div className="d-flex justify-content-center mb-4">
+                <div className="mil-category-buttons d-flex justify-content-center mb-4">
                     <button
                         type='button'
                         className={`mil-button-portfolio mil-icon-button mil-btn-space ${selectedCategory === "all" ? "selected" : ""}`}
@@ -42,10 +41,11 @@ const Masonry = ({projects}) => {
                         Videography
                     </button>
                 </div>
+                <CategoryDropdown selectedCategory={selectedCategory} handleCategoryChange={handleCategoryChange}/>
                 <div className="container-portfolio mil-portfolio mil-mb-60 masonry">
                     {filteredProjects.map((project, key) => (
-                        <Link href={`/projects/${project.id}`} className="mil-more">
-                            <div key={`project-${key}`} className={`masonry-item ${project.category}`}>
+                        <Link href={`/projects/${project.id}`} className="mil-more" key={`project-${key}`}>
+                            <div className={`masonry-item ${project.category}`}>
                                 <img className="img-fluid" src={project.image} alt={project.image}/>
                             </div>
                         </Link>

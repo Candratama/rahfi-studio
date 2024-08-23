@@ -17,9 +17,9 @@ const TeamSection = () => {
                                 <div className="mil-text mil-up mil-mb-60"
                                      dangerouslySetInnerHTML={{__html: Data.description}}/>
 
-                                <div className="mil-up"><Link href="https://wa.me/6289626677400"
-                                                              className="mil-button mil-arrow-place mil-mb-60"><span>Contact Us</span><ArrowIcon/></Link>
-                                </div>
+                                {/*<div className="mil-up"><Link href="https://wa.me/6289626677400"*/}
+                                {/*                              className="mil-button mil-arrow-place mil-mb-60"><span>Contact Us</span><ArrowIcon/></Link>*/}
+                                {/*</div>*/}
 
                                 <h4 className="mil-up" dangerouslySetInnerHTML={{__html: Data.subtitle}}/>
                             </div>

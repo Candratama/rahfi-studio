@@ -10,12 +10,13 @@ import Masonry from "@components/sections/Masonry";
 const Projects = (props) => {
     return (
         <Layouts>
-            <PageBanner pageTitle={"Designing a <br> Better <span className=\"mil-thin\">World Today</span>"}
-                        breadTitle={"Portfolio"} anchorLabel={"Our works"} anchorLink={"#portfolio"}/>
+            <PageBanner pageTitle={""}
+                        breadTitle={"Portfolio"}
+            />
 
             <Masonry projects={props.projects}/>
 
-            <CallToActionSection/>
+            {/*<CallToActionSection/>*/}
 
         </Layouts>
     );

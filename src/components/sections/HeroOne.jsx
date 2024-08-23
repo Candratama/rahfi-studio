@@ -7,7 +7,7 @@ const HeroOne = () => {
     return (
         <>
             {/* banner */}
-            <section className="mil-banner mil-dark-bg">
+            <section className="hero-section mil-banner mil-dark-bg">
                 <div className="mi-invert-fix">
                     <div className="mil-animation-frame">
                         <div className="mil-animation mil-position-1 mil-scale" data-value-1="7" data-value-2="1.6">
@@ -34,12 +34,12 @@ const HeroOne = () => {
                                 </div>
                             </div>
 
-                            <Link href={Data.button1.link} className="mil-button mil-arrow-place mil-btn-space">
-                                <span>{Data.button1.label}</span>
-                                <ArrowIcon/>
-                            </Link>
+                            {/*<Link href={Data.button1.link} className="mil-button mil-arrow-place mil-btn-space">*/}
+                            {/*    <span>{Data.button1.label}</span>*/}
+                            {/*    <ArrowIcon/>*/}
+                            {/*</Link>*/}
 
-                            <Link href={Data.button2.link} className="mil-link mil-muted mil-arrow-place">
+                            <Link href={Data.button2.link} className="mil-button mil-arrow-place mil-btn-space">
                                 <span>{Data.button2.label}</span>
                                 <ArrowIcon/>
                             </Link>

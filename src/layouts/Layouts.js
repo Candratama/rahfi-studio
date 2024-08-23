@@ -51,7 +51,7 @@ const Layouts = ({
                     {!noFooter && <Footer layout={footer}/>}
                 </div>
             </div>
-            {/*<WhatsappButton />*/}
+            <WhatsappButton/>
         </div>
     );
 };

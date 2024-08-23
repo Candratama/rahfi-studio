@@ -1,39 +1,32 @@
-import React, {useEffect, useState} from 'react';
+'use client';
+
+import React, {useEffect} from 'react';
+import Script from 'next/script';
 
 const WhatsappButton = () => {
-    const [isHidden, setIsHidden] = useState(false);
-
     useEffect(() => {
-        const handleScroll = () => {
-            const button = document.querySelector('.floating-button-container');
-            const heroSection = document.querySelector('.hero-section');
-            const footer = document.querySelector('.footer-section');
-
-            if (button && heroSection && footer) {
-                const buttonRect = button.getBoundingClientRect();
-                const heroRect = heroSection.getBoundingClientRect();
-                const footerRect = footer.getBoundingClientRect();
-
-                const isOverHero = buttonRect.top < heroRect.bottom && buttonRect.bottom > heroRect.top;
-                const isOverFooter = buttonRect.top < footerRect.bottom && buttonRect.bottom > footerRect.top;
-
-                setIsHidden(isOverHero || isOverFooter);
-            }
+        const wa_btnSetting = {
+            "btnColor": "#16BE45",
+            "ctaText": "WhatsApp Us",
+            "cornerRadius": 40,
+            "marginBottom": 20,
+            "marginLeft": 20,
+            "marginRight": 20,
+            "btnPosition": "right",
+            "whatsAppNumber": "6289626677400",
+            "welcomeMessage": "Halo Rahfi Studio...",
+            "zIndex": 999999,
+            "btnColorScheme": "light"
         };
-
-        window.addEventListener('scroll', handleScroll);
-        return () => window.removeEventListener('scroll', handleScroll);
+        window.onload = () => {
+            _waEmbed(wa_btnSetting);
+        };
     }, []);
 
     return (
-        <div className={`floating-button-container ${isHidden ? 'hidden' : ''}`}>
-            <div className="bubble-chat">
-                <p>Contact Us</p>
-            </div>
-            <button className="floating-button">
-                <i className="fab fa-whatsapp"></i>
-            </button>
-        </div>
+        <>
+            <Script async src='https://d2mpatx37cqexb.cloudfront.net/delightchat-whatsapp-widget/embeds/embed.min.js'/>
+        </>
     );
 };
 

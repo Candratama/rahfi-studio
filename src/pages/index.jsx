@@ -7,11 +7,11 @@ import { getSortedProjectsData } from "@library/projects";
 
 import HeroOneSection from "@components/sections/HeroOne";
 import AboutSection from "@components/sections/About";
-import ServicesSection from "@components/sections/Services";
 import TeamSection from "@components/sections/Team";
 import Maps from "@components/sections/Maps";
 import Video from "@components/Video";
 import ProjectsMasonry from "@components/ProjectsMasonry";
+import Masonry from "@components/Masonry";
 
 const TestimonialSlider = dynamic(
   () => import("@components/sliders/Testimonial"),
@@ -21,14 +21,15 @@ const PartnersSlider = dynamic(() => import("@components/sliders/Partners"), {
   ssr: false,
 });
 
+
 const Home1 = (props) => {
   return (
     <Layouts>
       <HeroOneSection />
       <Video videoId="46yXOSytDas" />
       <AboutSection />
-      <ServicesSection />
-      <ProjectsMasonry projects={props.projects} />
+        <Masonry projects={props.projects} />
+      {/*<ProjectsMasonry projects={props.projects} />*/}
       <TestimonialSlider />
       <PartnersSlider />
       <TeamSection />

@@ -34,7 +34,7 @@ const HeroOne = () => {
                                 </div>
                             </div>
 
-                            <Link href={Data.button1.link} className="mil-button mil-arrow-place mil-btn-space">
+                            <Link href="https://wa.me/6289626677400r" className="mil-button mil-arrow-place mil-btn-space">
                                 <span>{Data.button1.label}</span>
                                 <ArrowIcon />
                             </Link>

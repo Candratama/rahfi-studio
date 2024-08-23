@@ -24,16 +24,6 @@
                 "children": 0
             },
             {
-                "label": "Services",
-                "link": "/services",
-                "children": 0
-            },
-            {
-                "label": "Blog",
-                "link": "/blog",
-                "children": 0
-            },
-            {
                 "label": "Contact",
                 "link": "/contact",
                 "children": 0
@@ -55,16 +45,8 @@
                 "link": "/projects"
             },
             {
-                "label": "Services",
-                "link": "/services"
-            },
-            {
                 "label": "Contact",
                 "link": "/contact"
-            },
-            {
-                "label": "Blog",
-                "link": "/blog"
             }
         ]
     },

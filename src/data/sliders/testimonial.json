@@ -3,22 +3,16 @@
     "subtitle": "Customer reviews are a valuable source <br>of information for both businesses and consumers.",
     "items": [
         {
-            "name": "Paul Trueman",
+            "name": "Jihan",
             "image": "/img/customers/1.jpg",
-            "role": "Eqanta app",
-            "text": "Working with Courtney Davis as our UI designer was an absolute pleasure. Her attention to detail and creative approach brought our vision to life. The user interface she designed exceeded our expectations, and we received positive feedback from our clients. Highly recommended!"
+            "role": "PBI Unissula",
+            "text": "Senang sekali bisa terlihat dalam projek video profil prodi bareng Rahfi Studio. Selama proses syuting 2 hari, effortnya luar biasa, mulai dari bawa properti, set up lokasi, mengatur banyak talent biar tampak bagus di kamera, termasuk mengarahkan saya yang jadi host, dan berbagai effort lainnya. Dan hasilnya benar-benar melebihi ekspektasi kami. Terimakasih Rahfi Studio."
         },
         {
-            "name": "Olivia Oldman",
+            "name": "Dr dr Renni Yuniati, SpDVE, MH",
             "image": "/img/customers/2.jpg",
-            "role": "Eqanta app",
-            "text": "I had the opportunity to collaborate with Courtney, and I must say she is incredibly talented. Her ability to understand our brand and translate it into a interface was impressive. Courtney's designs were intuitive, and enhanced the overall user experience. I look forward to working with her again!"
-        },
-        {
-            "name": "Oscar Newman",
-            "image": "/img/customers/3.jpg",
-            "role": "Eqanta app",
-            "text": "Courtney Davis is an exceptional UI designer. She has a keen eye for aesthetics and understands how to create interfaces. Courtney's designs greatly improved the usability of our application, and we couldn't be happier with the results. Highly skilled and reliable!"
+            "role": "Dokter RSUP Karyadi, Dosen FK Undip, Owner PT Munkos",
+            "text": "Saya nyaman bekerjasama dengan Rahfi Studio. Tim mampu membangun suasana yang bersahabat selama di lokasi syuting, jadi saya lebih rileks ketika pengambilan video. Saya juga banyak diarahkan; baik materi, pembawaan, hingga detail-detail. Profesional."
         }
     ]
 }

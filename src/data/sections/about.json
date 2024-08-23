@@ -1,13 +1,13 @@
 {
-    "image": {
-        "url": "/img/photo/1.jpg",
-        "alt": "img"
-    },
-    "avatar": {
-        "image": "/img/faces/customers/2.jpg",
-        "alt": "Founder"
-    },
-    "title": "Discover <br/>Our <span class=\"mil-thin\">Studio</span>",
-    "description": "<p>At our design studio, we are a collective of talented individuals ignited by our unwavering passion for transforming ideas into reality. With a harmonious blend of diverse backgrounds and a vast array of skill sets, we join forces to create compelling solutions for our esteemed clients.</p><p>Collaboration is at the heart of what we do. Our team thrives on the synergy that arises when unique perspectives converge, fostering an environment of boundless creativity. By harnessing our collective expertise, we produce extraordinary results that consistently surpass expectations.</p>",
-    "subtitle": "Passionately Creating <span class=\"mil-thin\">Design Wonders:</span> Unleashing <span class=\"mil-thin\">Boundless Creativity</span>"
+  "image": {
+    "url": "/img/photo/1.jpg",
+    "alt": "img"
+  },
+  "avatar": {
+    "image": "/img/faces/customers/2.jpg",
+    "alt": "Founder"
+  },
+  "title": "Discover <br/>The Truth <span class=\"mil-thin\">Of You</span>",
+  "description": "<p>Rahfi Studio siap menemani anda untuk menemukan karakter unik, dan menghadirkan citra terbaik melalui tampilan visual yang menarik dan profesional.<br><br><b>Rahfi Studio confidently stands ready to accompany you in presenting the best image with a captivating and professional visual appearance.</b><br><br>Selamat datang di Rahfi Studio. Jasa foto dan video profesional yang berfokus pada profil dan branding. Based in Semarang, tim produksi kami telah berpengalaman menangani branding visual untuk personal, instansi pendidikan, dan corporate.<br><br>Rahfi Studio selalu ingin menghadirkan karya dengan kualitas terbaik. Karena semua team kami memiliki passionate yang tinggi di bidangnya. Dalam proses pengerjaan project, kami selalu berupaya menggali keunikan setiap entitas, sehingga mampu memunculkan karakter yang kuat. Discover the truth of you.<br><br>Kami meyakini foto dan video merupakan salah satu media terbaik untuk menghadirkan citra positif brand maupun personal anda. Bersama Rahfi Studio, kita wujudkan ide kreatif menjadi karya yang luar biasa.</p>",
+  "subtitle": "Adi Putra | <br><span class=\"mil-thin\"> Founder</span>"
 }

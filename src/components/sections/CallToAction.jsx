@@ -17,7 +17,7 @@ const CallToActionSection = ( { bg } ) => {
                 <div className="mil-center">
                     <h2 className="mil-up mil-mb-60" dangerouslySetInnerHTML={{__html : Data.title}} />
                     <div className="mil-up">
-                        <Link href={Data.button.link} className="mil-button mil-arrow-place">
+                        <Link href="https://wa.me/6289626677400" className="mil-button mil-arrow-place">
                             <span>{Data.button.label}</span>
                             <ArrowIcon />
                         </Link>

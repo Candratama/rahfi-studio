@@ -10,6 +10,8 @@ import Header from "./headers/Index";
 //import Preloader from "./preloader/Index";
 import Cursor from "./cursor/Index";
 import ScrollbarProgress from "./scrollbar-progress/Index";
+import WhatsappButton from "@components/WhatsappButton";
+import {PreloaderAnimation} from "@common/preloader";
 
 const Layouts = ({
   children,
@@ -20,10 +22,10 @@ const Layouts = ({
   extraClass,
 }) => {
   useEffect(() => {
-    //PreloaderAnimation();
+    // PreloaderAnimation();
     ScrollAnimation();
     CursorAnimation();
-    AnchorSscroll();
+    // AnchorSscroll();
     CurrentPageLabel();
   }, []);
 
@@ -49,6 +51,7 @@ const Layouts = ({
           {!noFooter && <Footer layout={footer} />}          
         </div>
       </div>
+      <WhatsappButton />
     </div>
   );
 };

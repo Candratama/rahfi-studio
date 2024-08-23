@@ -9,7 +9,7 @@
     "note": "<span class=\"mil-accent\">*</span> The founders of our agency",
     "col1_items": [
         {
-            "image": "/img/faces/founder-1.jpg",
+            "image": "/img/faces/team-1.jpg",
             "name": "Adi Putra",
             "role": "Art Director",
             "social": [
@@ -38,9 +38,38 @@
     ],
     "col2_items": [
         {
-            "image": "/img/faces/founder-2.jpg",
+            "image": "/img/faces/team-2.jpg",
             "name": "Lyl Nafiah",
             "role": "Script Writer",
+            "social": [
+                {
+                    "icon": "fab fa-behance",
+                    "link": "https://behance.com",
+                    "title": "behance"
+                },
+                {
+                    "icon": "fab fa-dribbble",
+                    "link": "https://dribbble.com",
+                    "title": "dribbble"
+                },
+                {
+                    "icon": "fab fa-twitter",
+                    "link": "https://twitter.com",
+                    "title": "twitter"
+                },
+                {
+                    "icon": "fab fa-github",
+                    "link": "https://github.com",
+                    "title": "github"
+                }
+            ]
+        }
+    ],
+    "col3_items": [
+        {
+            "image": "/img/faces/team-3.jpg",
+            "name": "Candratama",
+            "role": "Editor",
             "social": [
                 {
                     "icon": "fab fa-behance",

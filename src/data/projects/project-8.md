@@ -1,7 +1,7 @@
 ---
 #preview
 title: Home Security Camera
-image: /img/works/2/display-2.jpg
+image: /img/works/8/display-8.jpg
 category: videography
 date: may 24 2023
 

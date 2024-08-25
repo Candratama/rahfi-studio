@@ -1,47 +1,55 @@
 ---
 #preview
-title: Home Security Camera
-image: /img/works/2/display-2.jpg
-category: videography
+title: Center for International Language Development
+image: /img/works/7/display-7.jpg
+category: photography
 date: may 24 2023
 
 #params
 layout: "one"
 
 #full details
-introTitle: "Home Security <span class=\"mil-thin\">Camera</span>"
+introTitle: "Center for International <span class=\"mil-thin\">Language Development</span>"
+fullImage: /img/works/1/22.jpg
 details:
   - label: "Client:"
-    value: "Envato"
+    value: "CILAD Unissula"
 
   - label: "Date:"
-    value: "April 2022"
+    value: "April 2024"
 
   - label: "Author"
-    value: "Paul Trueman"
+    value: "Rahfi Studio"
 
 description:
   enabled: 1
-  title: Simplicity, elegance, innovation!
+  title: "Simplicity, elegance, innovation!"
   content: "
       <p>A home surveillance camera that pays great attention to security and user privacy, featuring two modes to provide security while protecting personal privacy.The camera has an open and closed mode, we define the product to have clear two sides, expressing two working states and emotions.</p>
       <p>Presents a simple and quiet state when not in use, delivering a gentle and security.At the same time, the camera can adapt to a variety of environments, providing elegant ways of wall hanging and standing installation.</p>
     "
 
-demoLink: "https://www.behance.net/gallery/117994149/Home-Security-Camera?tracking_source=curated_galleries_product-design"
-
 gallery:
   enabled: 1
   items:
-    - image: /img/works/2/1.gif
+    - image: /img/works/1/33.jpg
       alt: "image"
 
-    - image: /img/works/2/2.jpg
+    - image: /img/works/1/44.jpg
       alt: "image"
 
-    - image: /img/works/2/3.jpg
+    - image: /img/works/1/55.jpg
       alt: "image"
 
-    - image: /img/works/2/4.jpg
+    - image: /img/works/1/66.jpg
+      alt: "image"
+
+gallery2:
+  enabled: 1
+  items:
+    - image: /img/works/1/11.jpg
+      alt: "image"
+
+    - image: /img/works/1/77.jpg
       alt: "image"
 ---

@@ -5,9 +5,9 @@ const BackToTopModule = () => {
         <>
             {/* back to top */}
             <div className="mil-back-to-top">
-                <a href="#top" className="mil-link mil-dark mil-arrow-place">
+                <a href="#top" className="mil-link mil-dark">
                     <span>Back to top</span>
-                    <ArrowIcon />
+                    <ArrowIcon/>
                 </a>
             </div>
             {/* back to top end */}

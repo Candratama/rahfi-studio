@@ -1,15 +1,16 @@
 ---
 #preview
-title: Home Security Camera
-image: /img/works/2/display-2.jpg
-category: videography
+title: Kemia Honest Skincare
+image: /img/works/9/display-9.jpg
+category: photography
 date: may 24 2023
 
 #params
 layout: "one"
 
 #full details
-introTitle: "Home Security <span class=\"mil-thin\">Camera</span>"
+introTitle: Kemia Honest <span class="mil-thin">Skincare</span>
+
 details:
   - label: "Client:"
     value: "Envato"
@@ -28,20 +29,18 @@ description:
       <p>Presents a simple and quiet state when not in use, delivering a gentle and security.At the same time, the camera can adapt to a variety of environments, providing elegant ways of wall hanging and standing installation.</p>
     "
 
-demoLink: "https://www.behance.net/gallery/117994149/Home-Security-Camera?tracking_source=curated_galleries_product-design"
-
 gallery:
   enabled: 1
   items:
-    - image: /img/works/2/1.gif
+    - image: /img/works/3/1.jpg
       alt: "image"
 
-    - image: /img/works/2/2.jpg
+    - image: /img/works/3/2.jpg
       alt: "image"
 
-    - image: /img/works/2/3.jpg
+    - image: /img/works/3/3.jpg
       alt: "image"
 
-    - image: /img/works/2/4.jpg
+    - image: /img/works/3/4.jpg
       alt: "image"
 ---

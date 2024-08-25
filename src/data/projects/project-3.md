@@ -1,7 +1,7 @@
 ---
 #preview
 title: Kemia Honest Skincare
-image: /img/works/1/33.jpg
+image: /img/works/3/display-3.jpg
 category: photography
 date: may 24 2023
 

@@ -1,7 +1,7 @@
 ---
 #preview
 title: Tony's Chocolonely
-image: /img/works/1/66.jpg
+image: /img/works/6/display-6.jpg
 category: videography
 date: may 24 2023
 

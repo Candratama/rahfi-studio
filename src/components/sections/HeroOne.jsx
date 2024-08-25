@@ -44,7 +44,7 @@ const HeroOne = () => {
                                 <ArrowIcon/>
                             </Link>
 
-                            <div className="mil-circle-text">
+                            <div className="mil-circle-text mil-mb-90">
                                 <svg version="1.1" xmlns="http://www.w3.org/2000/svg"
                                      xmlnsXlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300"
                                      enableBackground="new 0 0 300 300" xmlSpace="preserve"

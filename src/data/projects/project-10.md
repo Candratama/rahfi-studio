@@ -1,7 +1,7 @@
 ---
 #preview
 title: Cascade of Lava
-image: /img/works/4/display-4.jpg
+image: /img/works/10/display-10.jpg
 category: videography
 date: may 24 2023
 

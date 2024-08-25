@@ -1,7 +1,7 @@
 ---
 #preview
-title: Home Security Camera
-image: /img/works/2/display-2.jpg
+title: Tony's Chocolonely
+image: /img/works/12/display-12.jpg
 category: videography
 date: may 24 2023
 
@@ -9,7 +9,8 @@ date: may 24 2023
 layout: "one"
 
 #full details
-introTitle: "Home Security <span class=\"mil-thin\">Camera</span>"
+introTitle: Tony's <span class="mil-thin">Chocolonely</span>
+fullImage: /img/works/6/1.jpg
 details:
   - label: "Client:"
     value: "Envato"
@@ -28,20 +29,30 @@ description:
       <p>Presents a simple and quiet state when not in use, delivering a gentle and security.At the same time, the camera can adapt to a variety of environments, providing elegant ways of wall hanging and standing installation.</p>
     "
 
-demoLink: "https://www.behance.net/gallery/117994149/Home-Security-Camera?tracking_source=curated_galleries_product-design"
-
 gallery:
   enabled: 1
   items:
-    - image: /img/works/2/1.gif
+    - image: /img/works/6/2.gif
       alt: "image"
 
-    - image: /img/works/2/2.jpg
+    - image: /img/works/6/3.jpg
       alt: "image"
 
-    - image: /img/works/2/3.jpg
+    - image: /img/works/6/4.gif
       alt: "image"
 
-    - image: /img/works/2/4.jpg
+    - image: /img/works/6/5.jpg
+      alt: "image"
+
+gallery2:
+  enabled: 1
+  items:
+    - image: /img/works/6/6.jpg
+      alt: "image"
+
+    - image: /img/works/6/7.jpg
+      alt: "image"
+
+    - image: /img/works/6/8.jpg
       alt: "image"
 ---

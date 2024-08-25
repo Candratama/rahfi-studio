@@ -1070,6 +1070,7 @@ spaces
   right: 20px;
   display: flex;
   align-items: center;
+  transition: opacity 1s ease-in-out;
 }
 
 .bubble-chat {
@@ -1078,15 +1079,11 @@ spaces
   height: 40px;
   background-color: #fff;
   border-radius: 20px;
-  padding: 8px 22px;
-  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);
   margin-right: 8px;
-}
-
-.bubble-chat p {
-  margin: auto;
-  font-size: 14px;
-  color: #333;
+  border: 2px solid #333;
+  display: flex; /* Add this line */
+  align-items: center; /* Add this line */
+  justify-content: center; /* Add this line */
 }
 
 .floating-button {
@@ -1094,10 +1091,10 @@ spaces
   height: 50px;
   background-color: #fff;
   border-radius: 50%;
-  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
   cursor: pointer;
   font-size: 24px;
   z-index: 999;
+  border: 2px solid #333; /* Add this line to apply a border */
 }
 
 .floating-button img {

@@ -33,11 +33,11 @@ const DefaultFooter = ({extraClass}) => {
                             <div className="col-md-7 col-lg-6 mil-mb-60 mt-5">
                                 <div className="row justify-content-end ">
                                     <div className="col-md-6 col-lg-7">
-                                        {/*<Link href="https://wa.me/6289626677400"*/}
-                                        {/*      className="mil-button mil-arrow-place mil-btn-space ">*/}
-                                        {/*    <span>Contact Us</span>*/}
-                                        {/*    <ArrowIcon/>*/}
-                                        {/*</Link>*/}
+                                        <Link href="https://wa.me/6289626677400"
+                                              className="mil-button mil-arrow-place mil-btn-space ">
+                                            <span>Contact Us</span>
+                                            <ArrowIcon/>
+                                        </Link>
                                     </div>
 
                                 </div>

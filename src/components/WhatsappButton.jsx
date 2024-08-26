@@ -24,7 +24,7 @@ const WhatsappButton = () => {
                 setIsHidden(isOverHero || isOverFooter || isBeforeFooter);
             }
 
-            if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+            if (document.body.scrollTop > 120 || document.documentElement.scrollTop > 120) {
                 button.style.display = "flex";
             } else {
                 button.style.display = "none";

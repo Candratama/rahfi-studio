@@ -1,18 +1,24 @@
 {
-    "title": "Customer <span class=\"mil-thin\">Voices:</span> <br>Hear What <span class=\"mil-thin\">They Say!</span>",
-    "subtitle": "Customer reviews are a valuable source <br>of information for both businesses and consumers.",
-    "items": [
-        {
-            "name": "Jihan",
-            "image": "/img/customers/1.jpg",
-            "role": "PBI Unissula",
-            "text": "Senang sekali bisa terlihat dalam projek video profil prodi bareng Rahfi Studio. Selama proses syuting 2 hari, effortnya luar biasa, mulai dari bawa properti, set up lokasi, mengatur banyak talent biar tampak bagus di kamera, termasuk mengarahkan saya yang jadi host, dan berbagai effort lainnya. Dan hasilnya benar-benar melebihi ekspektasi kami. Terimakasih Rahfi Studio."
-        },
-        {
-            "name": "Dr dr Renni Yuniati, SpDVE, MH",
-            "image": "/img/customers/2.jpg",
-            "role": "Dokter RSUP Karyadi, Dosen FK Undip, Owner PT Munkos",
-            "text": "Saya nyaman bekerjasama dengan Rahfi Studio. Tim mampu membangun suasana yang bersahabat selama di lokasi syuting, jadi saya lebih rileks ketika pengambilan video. Saya juga banyak diarahkan; baik materi, pembawaan, hingga detail-detail. Profesional."
-        }
-    ]
+  "title": "Customer <span class=\"mil-thin\">Voices:</span> <br>Hear What <span class=\"mil-thin\">They Say!</span>",
+  "subtitle": "Customer reviews are a valuable source <br>of information for both businesses and consumers.",
+  "items": [
+    {
+      "name": "Jihan",
+      "image": "/img/faces/customers/JIHAN.jpg",
+      "role": "PBI Unissula",
+      "text": "Senang sekali bisa terlihat dalam projek video profil prodi bareng Rahfi Studio. Selama proses syuting 2 hari, effortnya luar biasa, mulai dari bawa properti, set up lokasi, mengatur banyak talent biar tampak bagus di kamera, termasuk mengarahkan saya yang jadi host, dan berbagai effort lainnya. Dan hasilnya benar-benar melebihi ekspektasi kami. Terimakasih Rahfi Studio."
+    },
+    {
+      "name": "Dr dr Renni Yuniati, SpDVE, MH",
+      "image": "/img/faces/customers/DR RENNI.jpg",
+      "role": "Dokter RSUP Karyadi, Dosen FK Undip, Owner PT Munkos",
+      "text": "Saya nyaman bekerjasama dengan Rahfi Studio. Tim mampu membangun suasana yang bersahabat selama di lokasi syuting, jadi saya lebih rileks ketika pengambilan video. Saya juga banyak diarahkan; baik materi, pembawaan, hingga detail-detail. Profesional."
+    },
+    {
+      "name": "dr Muna",
+      "image": "/img/faces/customers/DR MUNA.jpg",
+      "role": "Dokter RSUP Karyadi, Dosen FK Undip, Owner PT Munkos",
+      "text": "Saya nyaman bekerjasama dengan Rahfi Studio. Tim mampu membangun suasana yang bersahabat selama di lokasi syuting, jadi saya lebih rileks ketika pengambilan video. Saya juga banyak diarahkan; baik materi, pembawaan, hingga detail-detail. Profesional."
+    }
+  ]
 }

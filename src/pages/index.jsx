@@ -31,7 +31,6 @@ const Home1 = (props) => {
             <Masonry projects={props.projects}/>
             {/*<ProjectsMasonry projects={props.projects} />*/}
             <TestimonialSlider/>
-            <PartnersSlider/>
             <TeamSection/>
             <Maps/>
         </Layouts>

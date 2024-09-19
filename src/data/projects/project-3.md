@@ -10,7 +10,7 @@ layout: "one"
 
 #full details
 introTitle: Personal Photo <span class="mil-thin">Ibu Idha</span>
-
+fullImage: /img/works/3/idha 2.jpg
 details:
   - label: "Client:"
     value: "Idha"
@@ -29,18 +29,13 @@ description:
       <p>Presents a simple and quiet state when not in use, delivering a gentle and security.At the same time, the camera can adapt to a variety of environments, providing elegant ways of wall hanging and standing installation.</p>
     "
 
-gallery:
+gallery2:
   enabled: 1
   items:
-    - image: /img/works/3/1.jpg
+    - image: /img/works/3/idha 1.jpg
       alt: "image"
 
-    - image: /img/works/3/2.jpg
+    - image: /img/works/3/idha 2.jpg
       alt: "image"
 
-    - image: /img/works/3/3.jpg
-      alt: "image"
-
-    - image: /img/works/3/4.jpg
-      alt: "image"
 ---

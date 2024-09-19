@@ -1,6 +1,6 @@
 ---
 #preview
-title: Tony's Chocolonely
+title: Video Profile CILAD Unissula
 image: /img/works/6/display-6.jpg
 category: videography
 date: may 24 2023
@@ -9,50 +9,49 @@ date: may 24 2023
 layout: "one"
 
 #full details
-introTitle: Tony's <span class="mil-thin">Chocolonely</span>
+introTitle: Video Profile<br><span class="mil-thin">CILAD Unissula</span>
 fullImage: /img/works/6/1.jpg
+video: bc6kqmcUu68?si=JYZy_ug_OUyfylGN
 details:
   - label: "Client:"
-    value: "Envato"
+    value: "CILAD Unissula"
 
   - label: "Date:"
     value: "April 2022"
 
   - label: "Author"
-    value: "Paul Trueman"
+    value: "Rahfi Studio"
 
 description:
   enabled: 1
-  title: Simplicity, elegance, innovation!
+  title: Where Your Personal Brand Meets Cinematic Storytelling
   content: "
-      <p>A home surveillance camera that pays great attention to security and user privacy, featuring two modes to provide security while protecting personal privacy.The camera has an open and closed mode, we define the product to have clear two sides, expressing two working states and emotions.</p>
-      <p>Presents a simple and quiet state when not in use, delivering a gentle and security.At the same time, the camera can adapt to a variety of environments, providing elegant ways of wall hanging and standing installation.</p>
+      <p>Melalui visual yang tajam, narasi yang kuat, dan penggambaran diri yang autentik, kami menciptakan video yang bukan hanya memperkenalkan siapa Anda, tetapi juga menyoroti nilai-nilai dan visi yang Anda bawa. Setiap adegan dirancang dengan tujuan untuk memperkuat citra diri Anda, menghadirkan cerita yang menarik dan berkesan.</p>
+      <p>Kami membantu Anda menyampaikan pesan yang lebih dari sekadar fakta, tetapi juga emosi dan esensi di balik personal brand Anda. Where Your Personal Brand Meets Cinematic Storytelling memastikan bahwa video profil Anda tampil unik, kuat, dan tak terlupakan di mata audiens.</p>
     "
 
 gallery:
   enabled: 1
   items:
-    - image: /img/works/6/2.gif
+    - image: /img/works/6/cilad 1.jpg
       alt: "image"
 
-    - image: /img/works/6/3.jpg
+    - image: /img/works/6/cilad 2.jpg
       alt: "image"
 
-    - image: /img/works/6/4.gif
+    - image: /img/works/6/cilad 3.jpg
       alt: "image"
 
-    - image: /img/works/6/5.jpg
+    - image: /img/works/6/cilad 4.jpg
       alt: "image"
 
 gallery2:
   enabled: 1
   items:
-    - image: /img/works/6/6.jpg
+    - image: /img/works/6/cilad 5.jpg
       alt: "image"
 
-    - image: /img/works/6/7.jpg
+    - image: /img/works/6/cilad 6.jpg
       alt: "image"
 
-    - image: /img/works/6/8.jpg
-      alt: "image"
 ---

@@ -1,6 +1,6 @@
 ---
 #preview
-title: Kemia Honest Skincare
+title: Ibu Idha
 image: /img/works/3/display-3.jpg
 category: photography
 date: may 24 2023
@@ -9,17 +9,17 @@ date: may 24 2023
 layout: "one"
 
 #full details
-introTitle: Kemia Honest <span class="mil-thin">Skincare</span>
+introTitle: Personal Photo <span class="mil-thin">Ibu Idha</span>
 
 details:
   - label: "Client:"
-    value: "Envato"
+    value: "Idha"
 
   - label: "Date:"
     value: "April 2022"
 
-  - label: "Author"
-    value: "Paul Trueman"
+  - label: "Author:"
+    value: "Rahfi Studio"
 
 description:
   enabled: 1

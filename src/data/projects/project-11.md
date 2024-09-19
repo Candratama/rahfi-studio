@@ -1,6 +1,6 @@
 ---
 #preview
-title: Air Pro by Molekule
+title: DR Teguh
 image: /img/works/11/display-11.jpg
 category: photography
 date: may 24 2023
@@ -9,47 +9,37 @@ date: may 24 2023
 layout: "one"
 
 #full details
-introTitle: Air Pro <span class="mil-thin">by Molekule</span>
-fullImage: /img/works/5/1.jpg
+introTitle: Personal Photo <span class="mil-thin">dr Teguh</span>
 details:
   - label: "Client:"
-    value: "Envato"
+    value: "dr Teguh"
 
   - label: "Date:"
-    value: "March 2022"
+    value: "March 2024"
 
-  - label: "Author"
-    value: "Paul Trueman"
-
-gallery:
-  enabled: 1
-  items:
-    - image: /img/works/5/2.jpg
-      alt: "image"
-
-    - image: /img/works/5/3.gif
-      alt: "image"
-
-    - image: /img/works/5/4.jpg
-      alt: "image"
-
-    - image: /img/works/5/5.gif
-      alt: "image"
-
-    - image: /img/works/5/6.jpg
-      alt: "image"
-
-description:
-  enabled: 1
-  title: Simplicity, elegance, innovation!
-  content: "
-        <p>A home surveillance camera that pays great attention to security and user privacy, featuring two modes to provide security while protecting personal privacy.The camera has an open and closed mode, we define the product to have clear two sides, expressing two working states and emotions.</p>
-        <p>Presents a simple and quiet state when not in use, delivering a gentle and security.At the same time, the camera can adapt to a variety of environments, providing elegant ways of wall hanging and standing installation.</p>
-    "
+  - label: "Author:"
+    value: "Rahfi Studio"
 
 gallery2:
   enabled: 1
   items:
-    - image: /img/works/5/7.gif
+    - image: /img/works/11/t1.jpg
       alt: "image"
+
+    - image: /img/works/11/t2.jpg
+      alt: "image"
+
+    - image: /img/works/11/t4.jpg
+      alt: "image"
+
+    - image: /img/works/11/t3.jpg
+      alt: "image"
+
+
+description:
+  enabled: 1
+  title: Caring Beyond the White Coat
+  content: "
+        <p>Melalui setiap foto, kami menangkap lebih dari sekadar penampilan profesional; kami menyoroti komitmen mendalam dan perhatian pribadi yang Anda berikan kepada pasien. Dengan memfokuskan pada sisi manusiawi dan kehangatan Anda, deskripsi ini menunjukkan bahwa perawatan yang Anda tawarkan tidak hanya terjadi di ruang praktik, tetapi juga dalam setiap interaksi dan momen kehadiran Anda.</p>
+    "
 ---

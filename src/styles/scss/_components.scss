@@ -2231,6 +2231,7 @@ portfolio
   & .mil-disabled {
     opacity: .2;
     cursor: not-allowed;
+    pointer-events: none;
   }
 
   @media screen and (max-width: 768px) {

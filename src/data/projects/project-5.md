@@ -1,6 +1,6 @@
 ---
 #preview
-title: Air Pro by Molekule
+title: MPAI Unissula
 image: /img/works/5/display-5.jpg
 category: photography
 date: may 24 2023
@@ -9,34 +9,31 @@ date: may 24 2023
 layout: "one"
 
 #full details
-introTitle: Air Pro <span class="mil-thin">by Molekule</span>
-fullImage: /img/works/5/1.jpg
+introTitle: Photo Session <span class="mil-thin">MPAI Unissula</span>
+fullImage: /img/works/5/cover.jpg
 details:
   - label: "Client:"
-    value: "Envato"
+    value: "MPAI Unissula"
 
   - label: "Date:"
-    value: "March 2022"
+    value: "March 2024"
 
-  - label: "Author"
-    value: "Paul Trueman"
+  - label: "Author:"
+    value: "Rahfi Studio"
 
 gallery:
   enabled: 1
   items:
-    - image: /img/works/5/2.jpg
+    - image: /img/works/5/mpai 1.jpg
       alt: "image"
 
-    - image: /img/works/5/3.gif
+    - image: /img/works/5/mpai 2.jpg
       alt: "image"
 
-    - image: /img/works/5/4.jpg
+    - image: /img/works/5/mpai 5.jpg
       alt: "image"
 
-    - image: /img/works/5/5.gif
-      alt: "image"
-
-    - image: /img/works/5/6.jpg
+    - image: /img/works/5/mpai 6.jpg
       alt: "image"
 
 description:
@@ -50,6 +47,16 @@ description:
 gallery2:
   enabled: 1
   items:
-    - image: /img/works/5/7.gif
+
+    - image: /img/works/5/mpai 3.jpg
+      alt: "image"
+
+    - image: /img/works/5/mpai 4.jpg
+      alt: "image"
+
+    - image: /img/works/5/mpai 7.jpg
+      alt: "image"
+
+    - image: /img/works/5/mpai 8.jpg
       alt: "image"
 ---

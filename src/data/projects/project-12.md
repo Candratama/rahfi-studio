@@ -1,6 +1,6 @@
 ---
 #preview
-title: Tony's Chocolonely
+title: Bossman Shisha
 image: /img/works/12/display-12.jpg
 category: videography
 date: may 24 2023
@@ -9,28 +9,27 @@ date: may 24 2023
 layout: "one"
 
 #full details
-introTitle: Tony's <span class="mil-thin">Chocolonely</span>
-fullImage: /img/works/6/1.jpg
+introTitle: Shisha's Review <span class="mil-thin">by Bossman Shisha</span>
+video: mMR_11VUkRM?si=s6OwXlVtyk07BaXx
 details:
   - label: "Client:"
-    value: "Envato"
+    value: "Bossman Shisha"
 
   - label: "Date:"
-    value: "April 2022"
+    value: "May 2023"
 
-  - label: "Author"
-    value: "Paul Trueman"
+  - label: "Author:"
+    value: "Rahfi Studio"
 
 description:
   enabled: 1
-  title: Simplicity, elegance, innovation!
+  title: Discover the Best in Shisha, One Review at a Time
   content: "
-      <p>A home surveillance camera that pays great attention to security and user privacy, featuring two modes to provide security while protecting personal privacy.The camera has an open and closed mode, we define the product to have clear two sides, expressing two working states and emotions.</p>
-      <p>Presents a simple and quiet state when not in use, delivering a gentle and security.At the same time, the camera can adapt to a variety of environments, providing elegant ways of wall hanging and standing installation.</p>
+      <p>Sebagai video creator, kami menghidupkan setiap ulasan dengan visual yang menarik dan narasi yang informatif, mengeksplorasi setiap detail dari produk shisha yang kami ulas. Dari rasa dan aroma hingga fitur desain dan performa, setiap video dirancang untuk memberikan panduan yang jelas dan menarik. Kami berkomitmen untuk membantu Anda menemukan pilihan shisha terbaik melalui konten yang kaya dan autentik, memastikan setiap sesi shisha Anda benar-benar memuaskan.</p>
     "
 
 gallery:
-  enabled: 1
+  enabled: 0
   items:
     - image: /img/works/6/2.gif
       alt: "image"
@@ -45,7 +44,7 @@ gallery:
       alt: "image"
 
 gallery2:
-  enabled: 1
+  enabled: 0
   items:
     - image: /img/works/6/6.jpg
       alt: "image"

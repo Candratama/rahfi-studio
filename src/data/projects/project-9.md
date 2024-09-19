@@ -1,6 +1,6 @@
 ---
 #preview
-title: Kemia Honest Skincare
+title: PBI Photo
 image: /img/works/9/display-9.jpg
 category: photography
 date: may 24 2023
@@ -9,38 +9,37 @@ date: may 24 2023
 layout: "one"
 
 #full details
-introTitle: Kemia Honest <span class="mil-thin">Skincare</span>
+introTitle: Commercial Photo <span class="mil-thin">PBI Unissula</span>
 
 details:
   - label: "Client:"
-    value: "Envato"
+    value: "PBI Unissula"
 
   - label: "Date:"
-    value: "April 2022"
+    value: "August 2024"
 
-  - label: "Author"
-    value: "Paul Trueman"
+  - label: "Author:"
+    value: "Rahfi Studio"
 
 description:
   enabled: 1
-  title: Simplicity, elegance, innovation!
+  title: Visuals That Speak the Language of Your Brand
   content: "
-      <p>A home surveillance camera that pays great attention to security and user privacy, featuring two modes to provide security while protecting personal privacy.The camera has an open and closed mode, we define the product to have clear two sides, expressing two working states and emotions.</p>
-      <p>Presents a simple and quiet state when not in use, delivering a gentle and security.At the same time, the camera can adapt to a variety of environments, providing elegant ways of wall hanging and standing installation.</p>
-    "
+      <p>Setiap foto dipikirkan dengan cermat untuk menyampaikan pesan, nilai, dan estetika yang sejalan dengan brand Anda. Kami memastikan bahwa setiap visual bukan hanya menarik perhatian, tetapi juga berbicara langsung kepada audiens target Anda, menciptakan koneksi yang mendalam dan mudah diingat. Dengan pemahaman yang kuat tentang strategi branding, kami menghasilkan gambar yang tidak hanya indah, tetapi juga mendukung tujuan bisnis Anda.</p>
+       "
 
-gallery:
+gallery2:
   enabled: 1
   items:
-    - image: /img/works/3/1.jpg
+    - image: /img/works/9/pbi 1.jpg
       alt: "image"
 
-    - image: /img/works/3/2.jpg
+    - image: /img/works/9/pbi 2.jpg
       alt: "image"
 
-    - image: /img/works/3/3.jpg
+    - image: /img/works/9/pbi 3.jpg
       alt: "image"
 
-    - image: /img/works/3/4.jpg
+    - image: /img/works/9/pbi 4.jpg
       alt: "image"
 ---

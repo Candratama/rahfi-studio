@@ -1,6 +1,6 @@
 ---
 #preview
-title: Cascade of Lava
+title: Prof Mulyana
 image: /img/works/4/display-4.jpg
 category: videography
 date: may 24 2023
@@ -9,48 +9,22 @@ date: may 24 2023
 layout: "one"
 
 #full details
-introTitle: Cascade <span class="mil-thin">of Lava</span>
+introTitle: Video Profil <span class="mil-thin">Prof Mulyana</span>
+video: 5UD6flZBXd8?si=OhWr--EugqRGkKKA
 details:
   - label: "Client:"
-    value: "Envato"
+    value: "Prof Mulyana"
 
   - label: "Date:"
-    value: "May 2022"
+    value: "May 2024"
 
-  - label: "Author"
-    value: "Paul Trueman"
-
-gallery:
-  enabled: 1
-  items:
-    - image: /img/works/4/1.jpg
-      alt: "image"
-
-    - image: /img/works/4/2.jpg
-      alt: "image"
-
-    - image: /img/works/4/3.jpg
-      alt: "image"
-
-    - image: /img/works/4/4.jpg
-      alt: "image"
-
-    - image: /img/works/4/5.jpg
-      alt: "image"
-
-    - image: /img/works/4/6.jpg
-      alt: "image"
+  - label: "Author:"
+    value: "Rahfi Studio"
 
 description:
   enabled: 1
-  title: Lava Photos taken at Hawaii <br>Volcanoes National Park.
+  title: Visual Storytelling for a Distinctive Personal Brand
   content: "
-      <p>This collection of Hawaii photography is focused on the immense power of lava at the Volcanos National Park on the Big Island of Hawaii. One of the most truly mystical scenes I have ever had the pleasure of capturing. For this collection I wanted to showcase this beauty in my own artistic way, through fine art landscape photography. However still keep these scenes natural and true to what I witnessed on my journey. For that reason, these images have been only lightly processed. All of these images are single exposures, unless listed otherwise in the caption below the photo.</p>
+      <p>Setiap elemen visual, mulai dari pencahayaan, warna, hingga komposisi, dirancang untuk menceritakan kisah yang mencerminkan kepribadian, nilai, dan tujuan Anda. Melalui visual storytelling, kami membantu Anda mengekspresikan siapa Anda dengan cara yang menarik, autentik, dan mudah diingat oleh audiens. Setiap gambar bukan hanya estetis, tetapi juga sebuah narasi yang memperkuat pesan yang ingin Anda sampaikan.</p>
     "
-
-gallery2:
-  enabled: 1
-  items:
-    - image: /img/works/4/7.jpg
-      alt: "image"
 ---

@@ -1,6 +1,6 @@
 ---
 #preview
-title: Center for International Language Development
+title: Ibu Trixie
 image: /img/works/1/display-1.jpg
 category: photography
 date: may 24 2023
@@ -9,47 +9,39 @@ date: may 24 2023
 layout: "one"
 
 #full details
-introTitle: "Center for International <span class=\"mil-thin\">Language Development</span>"
-fullImage: /img/works/1/22.jpg
+introTitle: "Personal Photo <span class=\"mil-thin\">Trixie Salawati</span>"
 details:
   - label: "Client:"
-    value: "CILAD Unissula"
+    value: "Trixie Salawati"
 
   - label: "Date:"
     value: "April 2024"
 
-  - label: "Author"
+  - label: "Author:"
     value: "Rahfi Studio"
 
 description:
   enabled: 1
-  title: "Simplicity, elegance, innovation!"
+  title: "Elevate Your Personal Brand with Every Shot"
   content: "
-      <p>A home surveillance camera that pays great attention to security and user privacy, featuring two modes to provide security while protecting personal privacy.The camera has an open and closed mode, we define the product to have clear two sides, expressing two working states and emotions.</p>
-      <p>Presents a simple and quiet state when not in use, delivering a gentle and security.At the same time, the camera can adapt to a variety of environments, providing elegant ways of wall hanging and standing installation.</p>
-    "
+      <p>Kami berfokus pada memperkuat citra dan identitas personal Anda melalui gambar yang otentik dan bermakna. Setiap foto yang diambil tidak hanya sekedar potret, tetapi sebuah narasi visual yang mencerminkan nilai-nilai, kepribadian, dan visi unik Anda.</p>
+     "
 
 gallery:
   enabled: 1
   items:
-    - image: /img/works/1/33.jpg
+    - image: /img/works/1/teci 1.jpg
       alt: "image"
 
-    - image: /img/works/1/44.jpg
-      alt: "image"
-
-    - image: /img/works/1/55.jpg
-      alt: "image"
-
-    - image: /img/works/1/66.jpg
+    - image: /img/works/1/teci 2.jpg
       alt: "image"
 
 gallery2:
   enabled: 1
   items:
-    - image: /img/works/1/11.jpg
+    - image: /img/works/1/teci 3.jpg
       alt: "image"
 
-    - image: /img/works/1/77.jpg
+    - image: /img/works/1/teci 4.jpg
       alt: "image"
 ---

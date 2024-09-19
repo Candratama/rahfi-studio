@@ -1,6 +1,6 @@
 ---
 #preview
-title: Cascade of Lava
+title: Selaras Indo Global
 image: /img/works/10/display-10.jpg
 category: videography
 date: may 24 2023
@@ -9,48 +9,24 @@ date: may 24 2023
 layout: "one"
 
 #full details
-introTitle: Cascade <span class="mil-thin">of Lava</span>
+introTitle: Video Profile <span class="mil-thin">Selaras Indo Global</span>
+video: 85_QMxylU5w?si=lnkNM51-7n55reZt
 details:
   - label: "Client:"
-    value: "Envato"
+    value: "Selaras Indo Global"
 
   - label: "Date:"
     value: "May 2022"
 
-  - label: "Author"
-    value: "Paul Trueman"
-
-gallery:
-  enabled: 1
-  items:
-    - image: /img/works/4/1.jpg
-      alt: "image"
-
-    - image: /img/works/4/2.jpg
-      alt: "image"
-
-    - image: /img/works/4/3.jpg
-      alt: "image"
-
-    - image: /img/works/4/4.jpg
-      alt: "image"
-
-    - image: /img/works/4/5.jpg
-      alt: "image"
-
-    - image: /img/works/4/6.jpg
-      alt: "image"
+  - label: "Author:"
+    value: "Rahfi Studio"
 
 description:
   enabled: 1
-  title: Lava Photos taken at Hawaii <br>Volcanoes National Park.
+  title: Bringing Your Company’s Journey to Life
   content: "
-      <p>This collection of Hawaii photography is focused on the immense power of lava at the Volcanos National Park on the Big Island of Hawaii. One of the most truly mystical scenes I have ever had the pleasure of capturing. For this collection I wanted to showcase this beauty in my own artistic way, through fine art landscape photography. However still keep these scenes natural and true to what I witnessed on my journey. For that reason, these images have been only lightly processed. All of these images are single exposures, unless listed otherwise in the caption below the photo.</p>
-    "
+      <p>Kami menyoroti titik-titik penting dalam perkembangan perusahaan, dari visi awal hingga pencapaian saat ini, dengan visual yang kuat dan narasi yang menyentuh. Setiap elemen video dirancang untuk menunjukkan dedikasi, inovasi, dan nilai-nilai yang membentuk identitas perusahaan Anda, memberi audiens pandangan mendalam tentang siapa Anda dan apa yang Anda perjuangkan.</p>
+      <p>Video ini dirancang untuk memperkuat citra perusahaan di mata klien, mitra bisnis, dan calon investor, menjadikan perusahaan Anda menonjol dan diingat.</p>    
+"
 
-gallery2:
-  enabled: 1
-  items:
-    - image: /img/works/4/7.jpg
-      alt: "image"
 ---

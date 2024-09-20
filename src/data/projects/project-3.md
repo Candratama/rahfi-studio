@@ -10,7 +10,7 @@ date: may 24 2023
 layout: "one"
 
 #full details
-introTitle: Personal Photo Idha Nurhamidah, S.S., M.Hum. <span class="mil-thin">Dosen Sastra Inggris Unissula</span>
+introTitle: Idha Nurhamidah, S.S., M.Hum. <span class="mil-thin">| Dosen Sastra Inggris Unissula</span>
 fullImage: /img/works/3/idha 2.jpg
 details:
   - label: "Client:"

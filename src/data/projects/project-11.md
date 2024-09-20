@@ -1,6 +1,6 @@
 ---
 #preview
-title: DR Teguh
+title: dr. Teguh Priyanto, Sp.KK
 image: /img/works/11/display-11.jpg
 category: photography
 date: may 24 2023
@@ -9,7 +9,8 @@ date: may 24 2023
 layout: "one"
 
 #full details
-introTitle: Personal Photo <span class="mil-thin">dr Teguh</span>
+introTitle: dr. Teguh Priyanto, Sp.KK
+  <span class="mil-thin">| Owner Skin Health Dermatology</span>
 details:
   - label: "Client:"
     value: "dr Teguh"

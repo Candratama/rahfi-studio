@@ -10,6 +10,10 @@ const ProjectInner1 = ({postData, prev, next}) => {
         prev.id = 0;
         next.id = "project-2";
     }
+    if (postData.id === "project-2") {
+        prev.id = "project-1";
+        next.id = "project-3";
+    }
     if (postData.id === "project-9") {
         prev.id = "project-8";
         next.id = "project-10";

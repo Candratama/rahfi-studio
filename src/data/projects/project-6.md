@@ -9,7 +9,7 @@ date: may 24 2023
 layout: "one"
 
 #full details
-introTitle: Video Profile<br><span class="mil-thin">CILAD Unissula</span>
+introTitle: Video Profile <span class="mil-thin">CILAD Unissula</span>
 fullImage: /img/works/6/1.jpg
 video: bc6kqmcUu68?si=JYZy_ug_OUyfylGN
 details:
@@ -17,18 +17,21 @@ details:
     value: "CILAD Unissula"
 
   - label: "Date:"
-    value: "April 2022"
+    value: "Mei 2024"
 
-  - label: "Author"
+  - label: "Author:"
     value: "Rahfi Studio"
 
 description:
   enabled: 1
-  title: Where Your Personal Brand Meets Cinematic Storytelling
-  content: "
-      <p>Melalui visual yang tajam, narasi yang kuat, dan penggambaran diri yang autentik, kami menciptakan video yang bukan hanya memperkenalkan siapa Anda, tetapi juga menyoroti nilai-nilai dan visi yang Anda bawa. Setiap adegan dirancang dengan tujuan untuk memperkuat citra diri Anda, menghadirkan cerita yang menarik dan berkesan.</p>
-      <p>Kami membantu Anda menyampaikan pesan yang lebih dari sekadar fakta, tetapi juga emosi dan esensi di balik personal brand Anda. Where Your Personal Brand Meets Cinematic Storytelling memastikan bahwa video profil Anda tampil unik, kuat, dan tak terlupakan di mata audiens.</p>
-    "
+  title: Menarik, Berkesan, Tak Terlupakan<br>Show, Don't just Tell
+
+content: '
+    <p>Sebagai lembaga yang cukup besar di Unissula, kami berupaya menyajikan video profil CILAD Unissula dengan konsep berbeda.</p>
+    <p>Kami menggali keunikan karakter dari CILAD Unissula, yang tidak dimiliki oleh lembaga-lembaga lainnya. Didapatlah keywords "Bahasa dan Budaya" sebagai tema utama dalam video. Mengajak audiens menikmati atraksi beragam bahasa dan budaya yang menjadi program unggulan CILAD Unissula.</p>
+    <p>Melalui konsep video yang unik dengan ragam propertinya, kami ingin mengajak audiens "keliling dunia". Prinsip "Show, Dont just Tell" selalu kami terapkan pada setiap karya.</p>
+    <p>Kami menyusun narasi berdasarkan riset mendalam agar bisa menyampaikan brand value secara apik. Melalui penceritaan yang mengalir, visi dan misi lembaga disampaikan secara smooth, sehingga menjadi video yang berkesan, tak terlupakan.</p>
+'
 
 gallery:
   enabled: 1

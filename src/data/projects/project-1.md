@@ -9,7 +9,7 @@ date: may 24 2023
 layout: "one"
 
 #full details
-introTitle: "Personal Photo Trixie Salawati, S.Sos., M.Kes. <span class=\"mil-thin\">Dosen FKM Unimus</span>"
+introTitle: "Trixie Salawati, S.Sos., M.Kes. <span class=\"mil-thin\">| Dosen FKM Unimus</span>"
 details:
   - label: "Client:"
     value: "Trixie Salawati, S.Sos., M.Kes."
@@ -24,7 +24,8 @@ description:
   enabled: 1
   title: "Elevate Your Personal Brand with Every Shot"
   content: "
-      <p>Kami berfokus pada memperkuat citra dan identitas personal Anda melalui gambar yang otentik dan bermakna. Setiap foto yang diambil tidak hanya sekedar potret, tetapi sebuah narasi visual yang mencerminkan nilai-nilai, kepribadian, dan visi unik Anda.</p>
+      <p>Sebagai seorang Public Speaker yang sering melakukan kegiatan promotif kesehatan di berbagai daerah, foto profil menjadi sebuah kebutuhan karena foto narasumber akan tercantum di setiap flyer acara. Sehingga ibu Trixie yang juga seorang penulis, perlu memiliki foto profil yang profesional yang mampu mencerminkan citra personalnya di hadapan calon audiens.</p>
+      <p>Rahfi Studio membantu ibu Trixie untuk menemukan karakter terbaiknya. Hasilnya, sebagaimana foto-foto yang tersaji di layar anda.</p>
      "
 
 gallery:

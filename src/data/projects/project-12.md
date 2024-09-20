@@ -29,19 +29,19 @@ description:
     "
 
 gallery:
-  enabled: 0
+  enabled:[project-12.md](project-12.md) 0
   items:
-    - image: /img/works/6/2.gif
-      alt: "image"
+      - image: /img/works/6/2.gif
+        alt: "image"
 
-    - image: /img/works/6/3.jpg
-      alt: "image"
+        - image: /img/works/6/3.jpg
+          alt: "image"
 
-    - image: /img/works/6/4.gif
-      alt: "image"
+        - image: /img/works/6/4.gif
+          alt: "image"
 
-    - image: /img/works/6/5.jpg
-      alt: "image"
+        - image: /img/works/6/5.jpg
+          alt: "image"
 
 gallery2:
   enabled: 0

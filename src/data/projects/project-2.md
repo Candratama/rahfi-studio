@@ -17,7 +17,7 @@ details:
     value: "PBI Unissula"
 
   - label: "Date:"
-    value: "April 2024"
+    value: "January 2024"
 
   - label: "Author:"
     value: "Rahfi Studio"
@@ -25,10 +25,13 @@ details:
 description:
   enabled: 1
   title: Capturing the Process, Revealing the Journey
-  content: "
-      <p>Dengan menangkap momen-momen di balik layar, kami memberikan perspektif yang lebih mendalam tentang bagaimana ide-ide berkembang menjadi hasil akhir yang luar biasa. Dokumentasi ini menunjukkan sisi lain dari kreativitas, dari kerjasama tim, percobaan dan error, hingga detail teknis yang membentuk setiap karya.</p>
-      <p>Melalui pendekatan ini, kita dapat melihat lebih dari sekadar produk jadi, kita dapat merasakan perjalanan yang penuh inspirasi, tantangan, dan transformasi. Capturing the Process, Revealing the Journey menghubungkan audiens dengan cerita di balik karya, memberikan apresiasi lebih besar terhadap dedikasi dan usaha yang terlibat dalam setiap langkah proses kreatif.</p>
-    "
+  content: '
+      <p>Program Studi Pendidikan Bahasa Inggris Unissula Semarang -- yang beberapa bulan setelah project video profil ini, akreditasinya telah meningkat menjadi "Unggul".</p>
+      <p>Video profil PBI Unissula ini mengusung konsep yang unik, yaitu room tour dimana host melakukan presentasi langsung di depan kamera - bukan menggunakan voice over.</p>
+      <p>Teknik kamera yang digunakan long take atau one shot, yakni teknik pengambilan gambar tanpa jeda, beberapa scene tersaji dalam 1 kali take.</p>
+      <p>Keberhasilan project ini juga didukung oleh kepiawaian kedua host: Tsania dan Jihan dalam menyampaikan narasi. Kami juga menyisipkan scene unik berupa show off talenta mahasiswa yang berprestasi di bidang English Story Telling. Tidak hanya menceritakan prestasinya sebagai juara tapi menampilkannya sebagai sebuah pertunjukan yang epik. "Show, Don`t just Tell".</p>
+      <p>Selamat menikmati karya yang kami kreasikan dengan sepenuh hati.</p>
+  '
 
 demoLink: "https://www.behance.net/gallery/117994149/Home-Security-Camera?tracking_source=curated_galleries_product-design"
 

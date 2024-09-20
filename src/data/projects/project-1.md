@@ -1,6 +1,6 @@
 ---
 #preview
-title: Ibu Trixie
+title: Trixie Salawati, S.Sos., M.Kes.
 image: /img/works/1/display-1.jpg
 category: photography
 date: may 24 2023
@@ -9,10 +9,10 @@ date: may 24 2023
 layout: "one"
 
 #full details
-introTitle: "Personal Photo <span class=\"mil-thin\">Trixie Salawati</span>"
+introTitle: "Personal Photo Trixie Salawati, S.Sos., M.Kes. <span class=\"mil-thin\">Dosen FKM Unimus</span>"
 details:
   - label: "Client:"
-    value: "Trixie Salawati"
+    value: "Trixie Salawati, S.Sos., M.Kes."
 
   - label: "Date:"
     value: "April 2024"

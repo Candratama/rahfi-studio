@@ -1,97 +1,97 @@
 {
-    "title": "Meet <br>Our Team",
-    "description": "<p>We are talented individuals who are passionate about bringing ideas to life. With a diverse range of backgrounds and skill sets, we collaborate to produce effective solutions for our clients.</p><p>Together, our creative team is committed to delivering impactful work that exceeds expectations.</p>",
-    "subtitle": "<span class=\"mil-thin\">We</span> delivering <br><span class=\"mil-thin\">exceptional</span> results.",
-    "button": {
-        "link": "/team",
-        "label": "Read more"
-    },
-    "note": "<span class=\"mil-accent\">*</span> The founders of our agency",
-    "col1_items": [
+  "title": "Meet <br>Our Team",
+  "description": "<p>Rahfi Studio berkumpul individu-individu berbakat yang passionate di bidangnya. Kami saling berjasama untuk menciptakan karya yang melampaui ekspektasi anda. Kreativitas tanpa batas, mengubah ide menjadi visual berkelas.</p>",
+  "subtitle": "<span class=\"mil-thin\">We</span> delivering <br><span class=\"mil-thin\">exceptional</span> results.",
+  "button": {
+    "link": "/team",
+    "label": "Read more"
+  },
+  "note": "<span class=\"mil-accent\">*</span> The founders of our agency",
+  "col1_items": [
+    {
+      "image": "/img/faces/team-1.jpg",
+      "name": "Adi Putra",
+      "role": "Art Director",
+      "social": [
         {
-            "image": "/img/faces/team-1.jpg",
-            "name": "Adi Putra",
-            "role": "Art Director",
-            "social": [
-                {
-                    "icon": "fab fa-behance",
-                    "link": "https://behance.com",
-                    "title": "behance"
-                },
-                {
-                    "icon": "fab fa-dribbble",
-                    "link": "https://dribbble.com",
-                    "title": "dribbble"
-                },
-                {
-                    "icon": "fab fa-twitter",
-                    "link": "https://twitter.com",
-                    "title": "twitter"
-                },
-                {
-                    "icon": "fab fa-github",
-                    "link": "https://github.com",
-                    "title": "github"
-                }
-            ]
-        }
-    ],
-    "col2_items": [
+          "icon": "fab fa-behance",
+          "link": "https://behance.com",
+          "title": "behance"
+        },
         {
-            "image": "/img/faces/team-2.jpg",
-            "name": "Lyl Nafiah",
-            "role": "Script Writer",
-            "social": [
-                {
-                    "icon": "fab fa-behance",
-                    "link": "https://behance.com",
-                    "title": "behance"
-                },
-                {
-                    "icon": "fab fa-dribbble",
-                    "link": "https://dribbble.com",
-                    "title": "dribbble"
-                },
-                {
-                    "icon": "fab fa-twitter",
-                    "link": "https://twitter.com",
-                    "title": "twitter"
-                },
-                {
-                    "icon": "fab fa-github",
-                    "link": "https://github.com",
-                    "title": "github"
-                }
-            ]
-        }
-    ],
-    "col3_items": [
+          "icon": "fab fa-dribbble",
+          "link": "https://dribbble.com",
+          "title": "dribbble"
+        },
         {
-            "image": "/img/faces/team-3.jpg",
-            "name": "Candratama",
-            "role": "Editor",
-            "social": [
-                {
-                    "icon": "fab fa-behance",
-                    "link": "https://behance.com",
-                    "title": "behance"
-                },
-                {
-                    "icon": "fab fa-dribbble",
-                    "link": "https://dribbble.com",
-                    "title": "dribbble"
-                },
-                {
-                    "icon": "fab fa-twitter",
-                    "link": "https://twitter.com",
-                    "title": "twitter"
-                },
-                {
-                    "icon": "fab fa-github",
-                    "link": "https://github.com",
-                    "title": "github"
-                }
-            ]
+          "icon": "fab fa-twitter",
+          "link": "https://twitter.com",
+          "title": "twitter"
+        },
+        {
+          "icon": "fab fa-github",
+          "link": "https://github.com",
+          "title": "github"
         }
-    ]
+      ]
+    }
+  ],
+  "col2_items": [
+    {
+      "image": "/img/faces/team-2.jpg",
+      "name": "Lyl Nafiah",
+      "role": "Script Writer",
+      "social": [
+        {
+          "icon": "fab fa-behance",
+          "link": "https://behance.com",
+          "title": "behance"
+        },
+        {
+          "icon": "fab fa-dribbble",
+          "link": "https://dribbble.com",
+          "title": "dribbble"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "link": "https://twitter.com",
+          "title": "twitter"
+        },
+        {
+          "icon": "fab fa-github",
+          "link": "https://github.com",
+          "title": "github"
+        }
+      ]
+    }
+  ],
+  "col3_items": [
+    {
+      "image": "/img/faces/team-3.jpg",
+      "name": "Candratama",
+      "role": "Editor",
+      "social": [
+        {
+          "icon": "fab fa-behance",
+          "link": "https://behance.com",
+          "title": "behance"
+        },
+        {
+          "icon": "fab fa-dribbble",
+          "link": "https://dribbble.com",
+          "title": "dribbble"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "link": "https://twitter.com",
+          "title": "twitter"
+        },
+        {
+          "icon": "fab fa-github",
+          "link": "https://github.com",
+          "title": "github"
+        }
+      ]
+    }
+  ]
 }

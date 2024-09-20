@@ -22,11 +22,10 @@ details:
     value: "Rahfi Studio"
 
 description:
-  enabled: 0
-  title: "Simplicity, elegance, innovation!"
+  enabled: 1
+  title: Together We Thrive, Together We Lead
   content: "
-      <p>A home surveillance camera that pays great attention to security and user privacy, featuring two modes to provide security while protecting personal privacy.The camera has an open and closed mode, we define the product to have clear two sides, expressing two working states and emotions.</p>
-      <p>Presents a simple and quiet state when not in use, delivering a gentle and security.At the same time, the camera can adapt to a variety of environments, providing elegant ways of wall hanging and standing installation.</p>
+      <p>Melalui setiap foto, kami menangkap semangat kebersamaan, kerja sama, dan harmoni yang memungkinkan tim Anda berkembang dan memimpin dengan percaya diri. Setiap anggota tim ditampilkan sebagai bagian dari kesatuan yang solid, di mana kontribusi individu berperan penting dalam mencapai hasil yang luar biasa.</p>
     "
 
 gallery2:
